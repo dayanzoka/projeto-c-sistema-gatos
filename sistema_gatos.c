@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// 1. structs
+// structs
 typedef struct {
     int id;
     char nomeTutor[100];
